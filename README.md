@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @rorythenerd
-- 👀 I’m interested in EDM, Scandinavia, games, and anime.
-- 🌱 I’m currently learning German, Norwegian, and Chinese.
+- 👀 I’m interested in EDM, Scandinavia, video games and nerdy stuff :)
+- 🌱 I’m currently learning how to code in C++.
 - 💞️ Currently not looking for any collaborations.
 - 📫 DM me to reach me.
 
