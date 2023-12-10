@@ -1,5 +1,5 @@
 - 👋 Yo, I’m @rorythenerd
-- 👀 I’m interested in EDM, Scandinavia, video games and nerdy stuff :)
+- 👀 I’m interested in EDM, Scandinavia, and nerdy stuff :)
 - 🌱 I’m currently learning how to code in C++.
 - 💞️ Currently not looking for any collaborations.
 - 📫 DM me to reach me.
