@@ -1,5 +1,5 @@
 - 👋 Yo, I’m @rorythenerd
-- 👀 I’m interested in electronics and robotics.
+- 👀 I’m interested in robotics.
 - 🌱 I’m currently learning how to code in Python and C++.
 - 💞️ Currently not looking for any collaborations.
 - 📫 DM me to reach me.
