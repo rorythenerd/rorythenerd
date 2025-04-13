@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics.
 - 🌱 I’m currently learning how to code in Python and C++.
 - 💞️ Currently not looking for any collaborations.
-- 📫 DM me to reach me.
+- 📫 No need to reach me.
 
 <!---
 rorythenerd/rorythenerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
