@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @rorythenerd
 - 👀 I’m interested in robotics.
-- 🌱 I’m currently learning how to code in Java.
+- 🌱 I’m currently learning how to code in C.
 - 💞️ Currently not looking for any collaborations.
 - 📫 No need to reach me.
 
